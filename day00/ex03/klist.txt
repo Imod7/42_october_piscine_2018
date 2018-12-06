@@ -1,0 +1,6 @@
+Credentials cache: API:44037
+        Principal: dsaripap@42.US.ORG
+
+  Issued                Expires               Principal
+Oct 23 05:46:08 2018  Oct 23 15:46:08 2018  krbtgt/42.US.ORG@42.US.ORG
+Oct 23 05:46:13 2018  Oct 23 15:46:08 2018  ldap/ldap-master.42.us.org@42.US.ORG
